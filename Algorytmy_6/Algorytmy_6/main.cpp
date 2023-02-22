@@ -1,6 +1,4 @@
-//ALGO2 IS1 220A LAB06
-//Hubert Jakubiak
-//jh50985@zut.edu.pl
+
 #include <iostream>
 #include<cmath>
 template<typename T> class Kopiec{
