@@ -1,6 +1,4 @@
-//ALGO2 IS1 220A LAB04
-//Hubert Jakubiak
-//jh50985@zut.edu.pl
+
 
 #include <iostream>
 #include <string>
