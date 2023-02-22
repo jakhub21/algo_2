@@ -1,6 +1,4 @@
-//ALGO2 IS1 220A LAB02
-//Hubert Jakubiak
-//jh50985@zut.edu.pl
+
 #include <iostream>
 #include <string>
 #include "time.h"
