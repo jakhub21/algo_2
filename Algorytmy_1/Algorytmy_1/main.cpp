@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  Algorytmy_1
-//
-//  Created by Hubert Jakubiak on 08/10/2022.
-//
 
 #include <iostream>
 #include <string>
